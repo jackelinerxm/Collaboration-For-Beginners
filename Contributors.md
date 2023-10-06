@@ -479,5 +479,4 @@
 #### Name: [Jackeline Romero](https://github.com/Jonathan-Nyquist)
 - Place: Valencia, SPAIN
 - Bio: Student
-- GitHub: [Jackelinerxm](https://github.com/Jackelinerxm)
-
+- GitHub: [Jackelinerxm](https://github.com/Jackelinerxm).
